@@ -8,5 +8,5 @@ export const injected = new InjectedConnector({
   //   3: Ethereum Testnet - ROP
   //   4: Ethereum Testnet - RIN
   //   80001: Polygon Testnet - MATIC
-  supportedChainIds: [1, 3, 4, 80001],
+  supportedChainIds: [1, 3, 4, 80001, 137],
 });
